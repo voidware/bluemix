@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="vwq2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/vwq2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="vwq2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="vwq2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

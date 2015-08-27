@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="vwq1:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/vwq1_war</output-path>
+    <root id="archive" name="vwq1_war.war">
+      <element id="artifact" artifact-name="vwq1:war exploded" />
+    </root>
+  </artifact>
+</component>

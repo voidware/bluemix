@@ -1,0 +1,8 @@
+applications:
+- disk_quota: 1024M
+  host: vwq2
+  name: VWQ2
+  path: vwq2_war.war
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M

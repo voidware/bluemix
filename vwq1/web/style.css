@@ -1,0 +1,42 @@
+body {
+    background-color: #1d3649;
+    font-size: 14px;
+    font-family: "Helvetica Neue", HelveticaNeue, Helvetica, "Segoe UI", Segoe, Calibri, Roboto, "Droid Sans", Meiryo, "Microsoft YaHei", "Arial Unicode MS", Arial, sans-serif;
+}
+
+h1 {
+    color: white;
+    margin-top: 20px;
+
+    font-size: 3em;
+}
+
+form {
+    font-family: "Courier New", Courier, monospace;
+
+}
+
+input, textarea, select, button {
+    background-color: whitesmoke;
+    color:  black;
+    margin: 0;
+    padding-left: 0;
+}
+
+textarea {
+
+    border: 2px solid black;
+
+}
+
+input {
+    margin-top: 10px;
+    margin-left: 2px; /* agree with text border */
+    font-size: 2em;
+
+}
+
+a {
+    color: white;
+    font-size: 2em;
+}
